@@ -19,6 +19,6 @@ NextPress is a basic news portal and has a very simple structure. In this projec
 - Right below the recent posts should be the recently viewed content.
 - When a user views a content appropriate data should be stored in the browser and the content should be visible in recently viewed section.
 
-Apart from all these, the design and architecture is up to you.
+Design decisions and architectural pattern to be followed within the project is totally up to you, please do impress us :)
 
 #### Api base url: https://retrocket.github.io/retrocketeer-api/

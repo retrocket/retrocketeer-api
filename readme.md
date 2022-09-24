@@ -21,4 +21,8 @@ NextPress is a basic news portal and has a very simple structure. In this projec
 
 Design decisions and architectural pattern to be followed within the project is totally up to you, please do impress us :)
 
+- You can clone or fork this repository for your submission.
+
+Best of luck!
+
 #### Api base url: https://retrocket.github.io/retrocketeer-api/
